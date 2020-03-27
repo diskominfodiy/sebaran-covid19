@@ -9,6 +9,6 @@ services:
       - 3306:3306
     environment:
       MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: relawan-covid19
-      MYSQL_USER: relawan-covid19
-      MYSQL_PASSWORD: relawan-covid19
+      MYSQL_DATABASE: sebaran-covid19
+      MYSQL_USER: sebaran-covid19
+      MYSQL_PASSWORD: sebaran-covid19
