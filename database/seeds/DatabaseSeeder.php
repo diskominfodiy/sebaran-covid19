@@ -15,5 +15,6 @@ class DatabaseSeeder extends Seeder
         $this->call(DistrictLocationsTableSeeder::class);
         $this->call(PopulasiDIYTableSeeder::class);
         $this->call(MasterPOSTableSeeder::class);
+        $this->call(MasterDataDIYTableSeeder::class);
     }
 }
