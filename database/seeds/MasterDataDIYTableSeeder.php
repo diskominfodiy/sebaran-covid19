@@ -11,7 +11,8 @@ class MasterDataDIYTableSeeder extends Seeder
      */
     public function run()
     {
-        //
+        // DUMMY DATA !
+        // Data berikut adalah data dummy, bukan data asli
         DB::table("master_data_diy")->insert([
             [
                 "tanggal_input" => "22 Maret 2020",
