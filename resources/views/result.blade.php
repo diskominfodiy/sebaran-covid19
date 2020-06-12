@@ -16,7 +16,6 @@
 </head>
 
 <body onload="myFunction()">
-    <script src="{{ asset('asset/scripts.js') }}"></script>
 
     <div id="loader"></div>
 
